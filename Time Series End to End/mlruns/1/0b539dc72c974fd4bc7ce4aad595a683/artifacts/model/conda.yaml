@@ -1,0 +1,7 @@
+channels:
+- conda-forge
+dependencies:
+- pip
+- pip:
+  - pycaret==2.3.2
+name: anomaly-demo-env

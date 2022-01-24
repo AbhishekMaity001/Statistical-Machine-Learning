@@ -1,0 +1,4 @@
+artifact_location: file:///D:/Data%20Science/ineuron%20ML%20Masters/Statistical%20%20Machine%20Learning/Time%20Series%20End%20to%20End/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: demo-anom
